@@ -1,12 +1,21 @@
 # 👋 Hi, I'm Asher Beck
 
-### Full-Stack Python Engineer | FastAPI | Django | React | FinTech
+### 💻 Full-Stack Python Engineer | FastAPI | Django | React | FinTech
 
-I’m a **Full-Stack Software Engineer** specialising in Python, backend systems and modern web applications, with **20+ years of experience in financial markets and financial products**.
+**Software Engineer with 20+ years of experience in financial markets and financial products.**
 
-I enjoy building reliable, maintainable software across the full stack — from **data models and APIs to React interfaces, automated testing and CI/CD**.
+I build modern, reliable and maintainable applications across the full stack — from **Python APIs and data models to React frontends, automated testing and CI/CD**.
 
-My background combines **software engineering with deep financial-domain knowledge**, allowing me to understand both the technology and the business problems behind financial applications.
+My particular strength is combining **software engineering with financial-domain knowledge**, allowing me to understand both the technical architecture and the business problems behind financial technology.
+
+<p align="center">
+  <a href="https://github.com/Asherbeck10">
+    <img src="https://img.shields.io/badge/GitHub-Asherbeck10-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://asher-beck-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ---
 
@@ -16,32 +25,23 @@ My background combines **software engineering with deep financial-domain knowled
 * ⚡ FastAPI & Django REST Framework
 * ⚛️ React & TypeScript
 * 💹 20+ years of financial-markets experience
-* 🏗️ API design & application architecture
-* 🗄️ SQL, data modelling & relational databases
+* 🏗️ API design & backend architecture
+* 🗄️ Data modelling & relational databases
 * 🔄 Legacy application modernisation and migration
 * 🐳 Docker & containerised development
 * 🔁 CI/CD & GitHub Actions
 * 🧪 Automated testing with Pytest & Playwright
+* 📨 Working knowledge of messaging and event-driven architectures
 * 🤖 AI-assisted software engineering
-* 📊 Interested in data pipelines and distributed systems
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Technical Skills
 
-### 💻 Languages
+## 🐍 Backend
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
@@ -49,16 +49,25 @@ My background combines **software engineering with deep financial-domain knowled
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+**REST APIs · Authentication · Async Python · API design · Backend architecture**
+
+---
+
+## ⚛️ Frontend
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Data
+**React applications · TypeScript · API integration · Forms · Data grids · Responsive UI**
+
+---
+
+## 🗄️ Databases & Data
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -66,19 +75,35 @@ My background combines **software engineering with deep financial-domain knowled
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-**Data modelling · SQL · Relational databases · Data pipelines**
+**SQL · Data modelling · Relational databases · Query optimisation · Data pipelines**
 
-### 🐳 DevOps & Cloud
+---
+
+## 📨 Messaging & Distributed Systems
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+**Event-driven architecture · Message queues · Asynchronous processing · Distributed systems**
+
+---
+
+## 🐳 DevOps & Cloud
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-**Docker Compose · CI/CD · Containerisation · Cloud deployment**
+**Containerisation · CI/CD · Automated deployments · Cloud development**
 
-### 🧪 Testing
+---
+
+## 🧪 Testing
 
 <p>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
@@ -87,15 +112,9 @@ My background combines **software engineering with deep financial-domain knowled
 
 **Unit testing · Integration testing · API testing · End-to-end testing**
 
-### 📨 Messaging & Distributed Systems
-
-**Kafka · RabbitMQ · Redis · Asynchronous processing · Event-driven architecture**
-
 ---
 
 # 🤖 AI-Assisted Engineering
-
-I use modern AI development tools as part of my engineering workflow:
 
 <p>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -104,7 +123,7 @@ I use modern AI development tools as part of my engineering workflow:
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-I use AI-assisted development for:
+I use AI-assisted development as part of my normal engineering workflow for:
 
 * Code generation and refactoring
 * Debugging and troubleshooting
@@ -112,9 +131,9 @@ I use AI-assisted development for:
 * Code review
 * Architecture exploration
 * Documentation
-* Research and technical investigation
+* Technical research
 
-I treat AI as an engineering tool rather than a replacement for software engineering fundamentals.
+AI accelerates the development process while conventional engineering practices remain essential for **testing, security, maintainability and code quality**.
 
 ---
 
@@ -122,13 +141,13 @@ I treat AI as an engineering tool rather than a replacement for software enginee
 
 ## 💹 Verto
 
-A modern financial application built with a Python/FastAPI backend and a modern web frontend.
+A modern financial application built around a **Python/FastAPI backend** and modern web frontend.
 
-**Technologies**
+### Technologies
 
 `Python` `FastAPI` `SQLAlchemy` `React` `TypeScript` `Docker`
 
-**Focus**
+### Focus
 
 * REST API development
 * Authentication
@@ -142,28 +161,28 @@ A modern financial application built with a Python/FastAPI backend and a modern 
 
 ## 📊 Blotter
 
-A financial-market application built around a Django REST Framework API and a data-driven frontend.
+A financial-market application built around a **Django REST Framework API** and a data-driven frontend.
 
-**Technologies**
+### Technologies
 
 `Python` `Django REST Framework` `React` `MySQL` `REST API`
 
-**Focus**
+### Focus
 
 * Financial-market workflows
 * API design
 * Database integration
 * Filtering and pagination
 * Frontend data presentation
-* Testing
+* Automated testing
 
 ---
 
 ## 🌐 Wallafan
 
-A full-stack web application using Laravel and Vue, including work on modernising and migrating legacy functionality.
+Full-stack application development using **Laravel and Vue**, including work on modernising and migrating legacy functionality.
 
-**Technologies**
+### Technologies
 
 `PHP` `Laravel` `Vue` `JavaScript` `Docker`
 
@@ -171,7 +190,7 @@ A full-stack web application using Laravel and Vue, including work on modernisin
 
 # 💹 Financial Markets
 
-Before and alongside my software engineering career, I developed extensive experience in **financial markets and financial products**.
+My software engineering background is complemented by **20+ years of experience in financial markets and financial products**.
 
 This gives me a strong understanding of the domain behind financial technology systems, including:
 
@@ -182,56 +201,58 @@ This gives me a strong understanding of the domain behind financial technology s
 * Data-intensive applications
 * Business-critical systems
 
-I particularly enjoy working at the intersection of **technology and financial markets**.
+I particularly enjoy working at the intersection of **technology, data and financial markets**.
 
 ---
 
-# 🏗️ Engineering Interests
+# 🏗️ Engineering Focus
 
 I'm particularly interested in:
 
-* 🐍 Python backend engineering
-* ⚡ FastAPI
-* 🌐 REST API architecture
-* ⚛️ React / TypeScript
-* 🗄️ Data modelling
-* 📊 Data pipelines
-* 📨 Event-driven systems
-* 🔄 Legacy system modernisation
-* 🐳 Docker & CI/CD
-* 🧪 Automated testing
-* 🏛️ System design
-* 🤖 AI-assisted engineering
+| Area             | Technologies / Concepts                   |
+| ---------------- | ----------------------------------------- |
+| 🐍 Backend       | Python · FastAPI · Django                 |
+| ⚛️ Frontend      | React · TypeScript                        |
+| 🌐 APIs          | REST · Authentication · API Design        |
+| 🗄️ Data         | PostgreSQL · MySQL · Redis · SQL          |
+| 📨 Messaging     | Kafka · RabbitMQ · Event-driven systems   |
+| 🐳 DevOps        | Docker · CI/CD · GitHub Actions           |
+| 🧪 Testing       | Pytest · Playwright · Integration Testing |
+| 🏛️ Architecture | System Design · Distributed Systems       |
+| 🤖 AI            | Claude · Copilot · Codex · Gemini         |
 
 ---
 
 # 📈 GitHub Activity
 
+My GitHub profile includes the standard GitHub contribution graph, showing my development activity over time.
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asherbeck10&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asherbeck10&layout=compact&hide_border=true" height="170"/>
+  <img src="https://raw.githubusercontent.com/Asherbeck10/Asherbeck10/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 </p>
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/Asherbeck10">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Asherbeck10-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://asher-beck-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
 
 ---
 
-### 💼 Open to opportunities
+## 💼 Open to Opportunities
 
 I'm interested in **Full-Stack Python, Backend, FinTech and Software Engineering roles** where I can combine modern software engineering with my financial-markets background.
 
-**Python · FastAPI · Django · React · TypeScript · APIs · Data · FinTech**
+### `Python` · `FastAPI` · `Django` · `React` · `TypeScript` · `APIs` · `Data` · `FinTech`
